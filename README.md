@@ -1,0 +1,2 @@
+* Código criado para aula de Robótica do Primeiro Semestre do curso de Ciência da Computação
+* Código simples criado com o intuito de exercitar conhecimentos, em que um potenciômetro controla a potência de um led, enquanto um sensor de luminosidade mapeia a intensidade de luminosidade do ambiente, e, caso o valor ultrapasse o estipulado, acione um segundo led, junto a um buzzer.
